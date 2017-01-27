@@ -1,3 +1,1 @@
-## Folsom Labs Interview: Modeling Solar Modules
-================
-In this exercise, you will implement some of the math used to model the energy output of a solar panel in python.  You can find the instructions for this exercise here: http://folsom-labs.github.io/module-interview/
+The added .ipynb and .pdf files are used to demonstrate that my method of arriving at the optimal power generation point is correct. Please refer to the graphs in these files. The optimal point is noted in the I-V graphs for each temperature-irradiance constant setting. 
